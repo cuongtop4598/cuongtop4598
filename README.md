@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cuong Tờ
-- 👀 I’m interested in golang/python deverloper and blockchain 
+- 👀 I’m interested in golang/python developer and blockchain 
 - 🌱 I’m currently learning blockchain, network security, big data
-- 💞️ I’m looking to collaborate on good work place 
+- 💞️ I’m looking to collaborate on a good workplace 
 - 📫 my gmail : cuongtop4598@gmail.com  phone: 0337776435
