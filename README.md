@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/cuongtop4598](https://github.com/cuongtop4598)
 
 - 📝 I regularly write articles on [https://viblo.asia/u/cuongtop45](https://viblo.asia/u/cuongtop45)
+- 📝 I have a paper at ieeexplore.ieee.org/document/9642123
 
 - 💬 Ask me about **golang, python**
 
