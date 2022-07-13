@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **blockchain development**
 
-- 🌱 I’m currently learning **software architecture, blockchain, network security**
+- 🌱 I’m currently researching **software architecture, blockchain, network security**
 
 - 👯 I’m looking to collaborate on **startup**
 
