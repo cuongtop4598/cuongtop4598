@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on [https://viblo.asia/u/cuongtop45](https://viblo.asia/u/cuongtop45)
 - 📝 I have a paper at [https://ieeexplore.ieee.org/document/9642123](https://ieeexplore.ieee.org/document/9642123)
 
-- 💬 Ask me about **golang, python**
+- 💬 Ask me about **golang, python, typescript, reactjs**
 
 - 📫 How to reach me **cuongtop4598@gmail.com**
 - Introduce about my self <br>
